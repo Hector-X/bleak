@@ -2,9 +2,9 @@
   font-family: 'icons';
   src: url('../fonts/icons.eot?9008467');
   src: url('../fonts/icons.eot?9008467#iefix') format('embedded-opentype'),
-       url('../fonts/icons.woff2?9008467') format('woff2'),
-       url('../fonts/icons.woff?9008467') format('woff'),
-       url('../fonts/icons.ttf?9008467') format('truetype'),
+       //url('../fonts/icons.woff2?9008467') format('woff2'),
+       //url('../fonts/icons.woff?9008467') format('woff'),
+       url('../fonts/icons.ttf') format('truetype'),
        url('../fonts/icons.svg?9008467#icons') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -24,7 +24,7 @@
   font-family: "icons";
   font-style: normal;
   font-weight: normal;
-  speak: none;
+  speak: nonehttp://www.gratisography.com/;
  
   display: inline-block;
   text-decoration: inherit;
@@ -63,5 +63,6 @@
 .icon-rss:before { content: '\e807'; } /* '' */
 .icon-star:before { content: '\e808'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
-.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-facebook:before { content: '\f18a'; } /* '' */
 .icon-gplus:before { content: '\f0d5'; } /* '' */
+.icon-github:before { content: '\f09b'; } /* '' */

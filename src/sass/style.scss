@@ -263,7 +263,7 @@ a {
 		background: $color-gray-90;
 		color: #000;
 		font-weight: 400;
-		border-radius: 2px;
+		border-radius: 0px;
 	}
 
 	pre {
@@ -305,7 +305,7 @@ a {
 			margin-left: 2em;
 			white-space: inherit;
 			overflow-x: auto;
-			background: $color-gray-90;
+			background: #ffffff;
 		}
 
 		.lines {
@@ -320,7 +320,7 @@ a {
 			line-height: 1.5em;
 			text-align: right;
 			box-sizing: border-box;
-			background: $color-gray-90;
+			background: #ffffff;
 			user-select: none;
 			cursor: default;
 
