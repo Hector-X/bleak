@@ -1,3 +1,5 @@
+Bleak是一个非常漂亮的Ghost主题，我做了一些调整和修改，使它更适合我的博客。
+
 # Bleak
 
 An elegant AJAX driven theme for [Ghost](http://github.com/tryghost/ghost/) by [Peter Amende](http://zutrinken.com/).
